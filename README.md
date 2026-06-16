@@ -9,7 +9,7 @@ An interactive Power BI business intelligence dashboard analyzing **9,994 US ret
 
 ---
 
-![Superstore Sales Dashboard](screenshots/dashboard_overview.jpg)
+![Superstore Sales Dashboard](Meshwa_Dashboard_Portfolio.jpg)
 
 ---
 
